@@ -107,17 +107,6 @@ public class App {
 			transversation = new HashSet<>();
 		}
 	}
-	/*
-	public static void afficheDeckEnInt() {
-		int cpt = 0;
-		for(HashSet<Integer> h : totalMetEnInt) {
-			System.out.println(h.size());
-			for(String s : h) {
-				System.out.println(cpt +" " + s);
-			}
-			cpt++;
-		}
-	}*/
 
 	public static void afficheDeckName() {
 		int cpt = 0;
