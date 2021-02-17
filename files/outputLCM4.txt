@@ -1,0 +1,263 @@
+TwilightWhelp #SUP: 27
+TwilightWhelp DarkCultist #SUP: 17
+TwilightWhelp BlackwingCorruptor #SUP: 19
+TwilightWhelp PowerWord:Shield #SUP: 22
+TwilightWhelp PowerWord:Shield WyrmrestAgent #SUP: 20
+TwilightWhelp PowerWord:Shield WyrmrestAgent NorthshireCleric TwilightGuardian #SUP: 17
+TwilightWhelp PowerWord:Shield WyrmrestAgent TwilightGuardian #SUP: 19
+TwilightWhelp PowerWord:Shield NorthshireCleric #SUP: 18
+TwilightWhelp Velen'sChosen #SUP: 19
+TwilightWhelp WyrmrestAgent #SUP: 22
+TwilightWhelp WyrmrestAgent NorthshireCleric TwilightGuardian #SUP: 18
+TwilightWhelp WyrmrestAgent TwilightGuardian #SUP: 21
+TwilightWhelp NorthshireCleric #SUP: 21
+TwilightWhelp HolyNova #SUP: 18
+NerubianEgg #SUP: 34
+NerubianEgg HauntedCreeper #SUP: 23
+NerubianEgg PilotedShredder #SUP: 19
+NerubianEgg DefenderofArgus #SUP: 20
+AbusiveSergeant #SUP: 24
+MortalCoil #SUP: 19
+DarkCultist #SUP: 27
+DarkCultist BlackwingCorruptor #SUP: 20
+DarkCultist PowerWord:Shield #SUP: 20
+DarkCultist WyrmrestAgent #SUP: 18
+DarkCultist NorthshireCleric #SUP: 19
+DarkCultist HolyNova #SUP: 17
+ImpGangBoss #SUP: 19
+BlackwingCorruptor #SUP: 30
+BlackwingCorruptor AzureDrake #SUP: 18
+BlackwingCorruptor PowerWord:Shield #SUP: 21
+BlackwingCorruptor PowerWord:Shield WyrmrestAgent #SUP: 17
+BlackwingCorruptor PowerWord:Shield TwilightGuardian #SUP: 17
+BlackwingCorruptor Velen'sChosen #SUP: 17
+BlackwingCorruptor WyrmrestAgent #SUP: 21
+BlackwingCorruptor WyrmrestAgent NorthshireCleric #SUP: 18
+BlackwingCorruptor WyrmrestAgent TwilightGuardian #SUP: 19
+BlackwingCorruptor NorthshireCleric #SUP: 20
+BlackwingCorruptor HolyNova #SUP: 17
+BlackwingCorruptor TwilightGuardian #SUP: 21
+AzureDrake #SUP: 79
+AzureDrake PowerWord:Shield #SUP: 20
+AzureDrake PowerWord:Shield TwilightGuardian #SUP: 18
+AzureDrake DarnassusAspirant #SUP: 19
+AzureDrake WildGrowth #SUP: 18
+AzureDrake Innervate #SUP: 18
+AzureDrake Dr.Boom #SUP: 19
+AzureDrake PilotedShredder #SUP: 27
+AzureDrake Swipe #SUP: 17
+AzureDrake ForceofNature #SUP: 17
+AzureDrake WyrmrestAgent #SUP: 19
+AzureDrake WyrmrestAgent NorthshireCleric #SUP: 17
+AzureDrake WyrmrestAgent TwilightGuardian #SUP: 17
+AzureDrake NorthshireCleric #SUP: 19
+AzureDrake HolyNova #SUP: 17
+AzureDrake TwilightGuardian #SUP: 20
+PowerWord:Shield #SUP: 39
+PowerWord:Shield Velen'sChosen #SUP: 22
+PowerWord:Shield Velen'sChosen NorthshireCleric #SUP: 17
+PowerWord:Shield CabalShadowPriest #SUP: 21
+PowerWord:Shield CabalShadowPriest TwilightGuardian #SUP: 17
+PowerWord:Shield WyrmrestAgent #SUP: 24
+PowerWord:Shield WyrmrestAgent NorthshireCleric #SUP: 19
+PowerWord:Shield WyrmrestAgent NorthshireCleric TwilightGuardian #SUP: 18
+PowerWord:Shield WyrmrestAgent HolyNova TwilightGuardian #SUP: 18
+PowerWord:Shield WyrmrestAgent TwilightGuardian #SUP: 22
+PowerWord:Shield NorthshireCleric #SUP: 28
+PowerWord:Shield NorthshireCleric HolyNova #SUP: 19
+PowerWord:Shield NorthshireCleric TwilightGuardian #SUP: 19
+PowerWord:Shield HolyNova #SUP: 25
+PowerWord:Shield HolyNova TwilightGuardian #SUP: 20
+PowerWord:Shield TwilightGuardian #SUP: 25
+PowerWord:Shield ShadowWord:Death #SUP: 20
+Velen'sChosen #SUP: 28
+Velen'sChosen WyrmrestAgent #SUP: 19
+Velen'sChosen WyrmrestAgent TwilightGuardian #SUP: 17
+Velen'sChosen NorthshireCleric #SUP: 21
+Velen'sChosen HolyNova #SUP: 17
+Velen'sChosen TwilightGuardian #SUP: 18
+CabalShadowPriest #SUP: 25
+CabalShadowPriest TwilightGuardian #SUP: 19
+HauntedCreeper #SUP: 81
+HauntedCreeper AnimalCompanion #SUP: 17
+HauntedCreeper IronbeakOwl #SUP: 18
+HauntedCreeper KnifeJuggler #SUP: 21
+HauntedCreeper PilotedShredder #SUP: 34
+HauntedCreeper SludgeBelcher #SUP: 17
+HauntedCreeper DefenderofArgus #SUP: 18
+King'sElekk #SUP: 20
+MadScientist #SUP: 65
+MadScientist EaglehornBow #SUP: 21
+MadScientist KillCommand #SUP: 20
+MadScientist Frostbolt #SUP: 23
+MadScientist Fireball #SUP: 19
+MadScientist ArcaneIntellect #SUP: 18
+AnimalCompanion #SUP: 34
+AnimalCompanion EaglehornBow #SUP: 17
+AnimalCompanion KillCommand #SUP: 19
+ExplosiveTrap #SUP: 22
+LeperGnome #SUP: 27
+IronbeakOwl #SUP: 53
+IronbeakOwl Loatheb #SUP: 18
+IronbeakOwl Dr.Boom #SUP: 17
+Loatheb #SUP: 67
+Loatheb Dr.Boom #SUP: 23
+Loatheb PilotedShredder #SUP: 25
+EaglehornBow #SUP: 31
+KillCommand #SUP: 30
+BearTrap #SUP: 22
+FreezingTrap #SUP: 18
+QuickShot #SUP: 22
+DarnassusAspirant #SUP: 36
+DarnassusAspirant WildGrowth #SUP: 22
+DarnassusAspirant WildGrowth PilotedShredder #SUP: 17
+DarnassusAspirant Innervate #SUP: 22
+DarnassusAspirant Innervate PilotedShredder #SUP: 17
+DarnassusAspirant Innervate Swipe #SUP: 19
+DarnassusAspirant Innervate KeeperoftheGrove #SUP: 17
+DarnassusAspirant PilotedShredder #SUP: 23
+DarnassusAspirant PilotedShredder KeeperoftheGrove #SUP: 18
+DarnassusAspirant AncientofLore #SUP: 18
+DarnassusAspirant Swipe #SUP: 24
+DarnassusAspirant Swipe KeeperoftheGrove #SUP: 18
+DarnassusAspirant ForceofNature #SUP: 17
+DarnassusAspirant KeeperoftheGrove #SUP: 24
+DarnassusAspirant Wrath #SUP: 18
+DarnassusAspirant SavageRoar #SUP: 18
+DarnassusAspirant DruidoftheClaw #SUP: 18
+KnifeJuggler #SUP: 55
+WildGrowth #SUP: 29
+WildGrowth Innervate #SUP: 20
+WildGrowth PilotedShredder #SUP: 21
+WildGrowth Swipe #SUP: 18
+WildGrowth KeeperoftheGrove #SUP: 20
+WildGrowth Wrath #SUP: 18
+MusterforBattle #SUP: 33
+MusterforBattle ShieldedMinibot #SUP: 18
+Innervate #SUP: 32
+Innervate PilotedShredder #SUP: 22
+Innervate PilotedShredder Swipe #SUP: 18
+Innervate AncientofLore #SUP: 17
+Innervate Swipe #SUP: 26
+Innervate Swipe KeeperoftheGrove #SUP: 19
+Innervate KeeperoftheGrove #SUP: 23
+Innervate KeeperoftheGrove Wrath #SUP: 17
+Innervate Wrath #SUP: 18
+Dr.Boom #SUP: 88
+Dr.Boom PilotedShredder #SUP: 36
+Dr.Boom SludgeBelcher #SUP: 28
+PilotedShredder #SUP: 130
+PilotedShredder Swipe #SUP: 22
+PilotedShredder KeeperoftheGrove #SUP: 21
+PilotedShredder SludgeBelcher #SUP: 24
+PilotedShredder Frostbolt #SUP: 20
+PilotedShredder UnstablePortal #SUP: 18
+PilotedShredder DruidoftheClaw #SUP: 17
+PilotedShredder DefenderofArgus #SUP: 17
+ShadeofNaxxramas #SUP: 23
+ShadeofNaxxramas KeeperoftheGrove #SUP: 19
+MysteriousChallenger #SUP: 17
+Avenge #SUP: 33
+Avenge NobleSacrifice #SUP: 26
+NobleSacrifice #SUP: 32
+AncientofLore #SUP: 21
+AncientofLore Swipe #SUP: 19
+Redemption #SUP: 18
+Swipe #SUP: 33
+Swipe KeeperoftheGrove #SUP: 24
+Swipe Wrath #SUP: 19
+Swipe DruidoftheClaw #SUP: 17
+ForceofNature #SUP: 21
+KeeperoftheGrove #SUP: 32
+KeeperoftheGrove Wrath #SUP: 19
+UnleashtheHounds #SUP: 21
+ManaWyrm #SUP: 39
+ManaWyrm Mechwarper #SUP: 20
+ManaWyrm Cogmaster #SUP: 21
+ManaWyrm Cogmaster Snowchugger #SUP: 18
+ManaWyrm ClockworkGnome #SUP: 21
+ManaWyrm Frostbolt #SUP: 29
+ManaWyrm Frostbolt Fireball #SUP: 17
+ManaWyrm Frostbolt Snowchugger #SUP: 18
+ManaWyrm Frostbolt UnstablePortal #SUP: 17
+ManaWyrm Fireball #SUP: 22
+ManaWyrm Snowchugger #SUP: 22
+ManaWyrm UnstablePortal #SUP: 23
+Mechwarper #SUP: 33
+Mechwarper Cogmaster #SUP: 19
+Mechwarper ClockworkGnome #SUP: 19
+Mechwarper Frostbolt #SUP: 20
+Mechwarper Snowchugger #SUP: 19
+Cogmaster #SUP: 33
+Cogmaster ClockworkGnome #SUP: 24
+Cogmaster ClockworkGnome Frostbolt #SUP: 18
+Cogmaster ClockworkGnome Snowchugger #SUP: 20
+Cogmaster Frostbolt #SUP: 23
+Cogmaster Frostbolt Snowchugger #SUP: 19
+Cogmaster Snowchugger #SUP: 25
+Cogmaster Snowchugger UnstablePortal #SUP: 17
+Cogmaster UnstablePortal #SUP: 18
+BloodmageThalnos #SUP: 27
+ClockworkGnome #SUP: 32
+ClockworkGnome Frostbolt #SUP: 24
+ClockworkGnome Frostbolt Snowchugger #SUP: 18
+ClockworkGnome Snowchugger #SUP: 23
+ClockworkGnome UnstablePortal #SUP: 20
+Death'sBite #SUP: 17
+SludgeBelcher #SUP: 74
+SpiderTank #SUP: 23
+SpiderTank Snowchugger #SUP: 17
+MirrorEntity #SUP: 26
+Frostbolt #SUP: 53
+Frostbolt GoblinBlastmage #SUP: 17
+Frostbolt Fireball #SUP: 30
+Frostbolt Fireball ArcaneIntellect #SUP: 17
+Frostbolt ArcaneIntellect #SUP: 26
+Frostbolt Snowchugger #SUP: 25
+Frostbolt Snowchugger UnstablePortal #SUP: 17
+Frostbolt UnstablePortal #SUP: 26
+AcolyteofPain #SUP: 24
+GoblinBlastmage #SUP: 20
+Fireball #SUP: 37
+Fireball ArcaneIntellect #SUP: 18
+FanofKnives #SUP: 21
+Eviscerate #SUP: 23
+Eviscerate Backstab #SUP: 17
+ZombieChow #SUP: 26
+TruesilverChampion #SUP: 23
+ShieldedMinibot #SUP: 24
+RockbiterWeapon #SUP: 19
+SylvanasWindrunner #SUP: 30
+Consecration #SUP: 18
+ArcaneIntellect #SUP: 30
+Wrath #SUP: 26
+EmperorThaurissan #SUP: 42
+ArchmageAntonidas #SUP: 21
+SavageRoar #SUP: 21
+Snowchugger #SUP: 32
+Snowchugger UnstablePortal #SUP: 20
+UnstablePortal #SUP: 35
+WyrmrestAgent #SUP: 31
+WyrmrestAgent NorthshireCleric #SUP: 23
+WyrmrestAgent NorthshireCleric TwilightGuardian #SUP: 20
+WyrmrestAgent HolyNova #SUP: 20
+WyrmrestAgent HolyNova TwilightGuardian #SUP: 19
+WyrmrestAgent TwilightGuardian #SUP: 27
+BlackwingTechnician #SUP: 20
+NorthshireCleric #SUP: 40
+NorthshireCleric HolyNova #SUP: 22
+NorthshireCleric TwilightGuardian #SUP: 22
+NorthshireCleric ShadowWord:Death #SUP: 18
+HolyNova #SUP: 31
+HolyNova TwilightGuardian #SUP: 21
+HolyNova ShadowWord:Death #SUP: 17
+TwilightGuardian #SUP: 32
+ShadowWord:Death #SUP: 26
+DruidoftheClaw #SUP: 23
+Lightbomb #SUP: 17
+Flamewaker #SUP: 20
+DefenderofArgus #SUP: 40
+AntiqueHealbot #SUP: 20
+Stalagg #SUP: 18
+BigGameHunter #SUP: 20
+Backstab #SUP: 26
