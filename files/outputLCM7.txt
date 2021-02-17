@@ -1,0 +1,43 @@
+NerubianEgg #SUP: 34
+BlackwingCorruptor #SUP: 30
+AzureDrake #SUP: 79
+PowerWord:Shield #SUP: 39
+HauntedCreeper #SUP: 81
+HauntedCreeper PilotedShredder #SUP: 34
+MadScientist #SUP: 65
+AnimalCompanion #SUP: 34
+IronbeakOwl #SUP: 53
+Loatheb #SUP: 67
+EaglehornBow #SUP: 31
+KillCommand #SUP: 30
+DarnassusAspirant #SUP: 36
+KnifeJuggler #SUP: 55
+WildGrowth #SUP: 29
+MusterforBattle #SUP: 33
+Innervate #SUP: 32
+Dr.Boom #SUP: 88
+Dr.Boom PilotedShredder #SUP: 36
+PilotedShredder #SUP: 130
+Avenge #SUP: 33
+NobleSacrifice #SUP: 32
+Swipe #SUP: 33
+KeeperoftheGrove #SUP: 32
+ManaWyrm #SUP: 39
+ManaWyrm Frostbolt #SUP: 29
+Mechwarper #SUP: 33
+Cogmaster #SUP: 33
+ClockworkGnome #SUP: 32
+SludgeBelcher #SUP: 74
+Frostbolt #SUP: 53
+Frostbolt Fireball #SUP: 30
+Fireball #SUP: 37
+SylvanasWindrunner #SUP: 30
+ArcaneIntellect #SUP: 30
+EmperorThaurissan #SUP: 42
+Snowchugger #SUP: 32
+UnstablePortal #SUP: 35
+WyrmrestAgent #SUP: 31
+NorthshireCleric #SUP: 40
+HolyNova #SUP: 31
+TwilightGuardian #SUP: 32
+DefenderofArgus #SUP: 40

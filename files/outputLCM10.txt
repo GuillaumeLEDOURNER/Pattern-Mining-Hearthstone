@@ -1,0 +1,11 @@
+AzureDrake #SUP: 79
+HauntedCreeper #SUP: 81
+MadScientist #SUP: 65
+IronbeakOwl #SUP: 53
+Loatheb #SUP: 67
+KnifeJuggler #SUP: 55
+Dr.Boom #SUP: 88
+PilotedShredder #SUP: 130
+SludgeBelcher #SUP: 74
+Frostbolt #SUP: 53
+EmperorThaurissan #SUP: 42
