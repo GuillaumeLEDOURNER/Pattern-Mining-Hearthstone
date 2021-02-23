@@ -13,24 +13,25 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class PostLCM {
-	
-	//String filename = "files/test.txt";
-	//System.out.println(new File(filename).getAbsolutePath());
 
-	static TreeSet<String> joueurA = new TreeSet<>();
-	static TreeSet<String> joueurB = new TreeSet<>();
+	private static TreeSet<String> joueurA = new TreeSet<>();
+	private static TreeSet<String> joueurB = new TreeSet<>();
 
-	static List<TreeSet<String>> total = new ArrayList<>();
-	static List<TreeSet<Integer>> totalMetEnInt = new ArrayList<>();
-	static List<String> classCard = Arrays.asList("armorup!","daggermastery","fireblast","lesserheal","lifetap",
+	private static List<TreeSet<String>> total = new ArrayList<>();
+	private static List<TreeSet<Integer>> totalMetEnInt = new ArrayList<>();
+	private static List<String> classCard = Arrays.asList("armorup!","daggermastery","fireblast","lesserheal","lifetap",
 			"reinforce","shapeshift","steadyshot","totemiccall");
-	static List<String> banList = Arrays.asList("egin","begin","thecoin");
-	static int numPartie = 0;
+	private static List<String> banList = Arrays.asList("egin","begin","thecoin");
+	private static int numPartie = 0;
 
-	static Map<Integer, String> deckDictionnary = new HashMap<>();
-	static int lastUpdatedIndex = 1;
+	private static Map<Integer, String> deckDictionnary = new HashMap<>();
+	private static int lastUpdatedIndex = 1;
 	
-	
+	/**
+	 * 
+	 * @param deck
+	 * @return true si deck possède une carte de classe
+	 */
 	public static int containsClassCard(TreeSet<Integer> deck) {
 		for(String c : classCard) {
 			
@@ -41,7 +42,12 @@ public class PostLCM {
 		}
 		return -1;
 	}
-	
+	/**
+	 * (a la suite de l'input)
+	 * Va creer un fichier pour chaque classe contenant tout les decks (en nombre)
+	 * en enlevant les cartes de classes du deck
+	 * @throws IOException
+	 */
 	public static void OneFileOneClass() throws IOException {
 		Map<Integer,List<TreeSet<Integer>>> totalByClass = new HashMap<>();
 		
@@ -57,7 +63,7 @@ public class PostLCM {
 			
 			if(isCard != -1) {
 				removeClassCard(deck);
-				totalByClass.get(isCard).add(sorted(deck));
+				totalByClass.get(isCard).add(deck);
 				
 			}
 			
@@ -73,24 +79,21 @@ public class PostLCM {
 		}
 			
 	}
+	/**
+	 * Supprimer les class card d'un treeset
+	 * @param tree l'arbre a modifié
+	 */
 	public static void removeClassCard(TreeSet<Integer> tree) {
 		for(String card : classCard) {
 			tree.remove(searchInteger(card));
 		}
 	}
-	public static TreeSet<Integer> sorted (TreeSet<Integer> deck){
-		List<Integer> l = new ArrayList<>(deck);
 	
-		Collections.sort(l);
-		
-		TreeSet<Integer> res = new TreeSet<>();
-		for(Integer i : l) {
-			res.add(i);
-		}
-	
-		return res;
-	}
-	
+	/**
+	 * 
+	 * @param truc list de treeset
+	 * @return string des deck en Integer
+	 */
 	public static String deckToString(List<TreeSet<Integer>> truc) {
 		String res = "";
 		if(truc.isEmpty()) System.out.println("is empty");
@@ -105,6 +108,8 @@ public class PostLCM {
 		}
 		return res;
 	}
+	
+	
 	/**
 	 * Ajoute une carte à la bdd si absente de la bdd
 	 * @param item 
@@ -115,6 +120,8 @@ public class PostLCM {
 			lastUpdatedIndex++;
 		}
 	}
+	
+	
 	/**
 	 * Search a card in the bdd and give it's ID
 	 * @param item name of the card
@@ -187,13 +194,6 @@ public class PostLCM {
 				}
 
 				if(numPartie != Integer.valueOf(oneLine[0]) || isLast(l,line)) {
-					/*
-					for(String s : joueurA) {
-						System.out.println("jA " + s);
-					}
-					for(String s : joueurB) {
-						System.out.println("jB " + s);
-					}*/
 					total.add(joueurA);
 					total.add(joueurB);
 					numPartie = Integer.valueOf(oneLine[0]);
