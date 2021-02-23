@@ -1,0 +1,7 @@
+hauntedcreeper #SUP: 16
+pilotedshredder #SUP: 13
+fireelemental #SUP: 11
+lightningstorm #SUP: 13
+rockbiterweapon #SUP: 15
+hex #SUP: 11
+flametonguetotem #SUP: 12

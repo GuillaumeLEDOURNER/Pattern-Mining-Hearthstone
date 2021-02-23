@@ -12,7 +12,7 @@ import java.util.Set;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class App {
+public class PostLCM {
 	
 	//String filename = "files/test.txt";
 	//System.out.println(new File(filename).getAbsolutePath());
@@ -34,9 +34,9 @@ public class App {
 	public static int containsClassCard(TreeSet<Integer> deck) {
 		for(String c : classCard) {
 			
-			if(deck.contains(Integer.valueOf(search(c)))) {
+			if(deck.contains(searchInteger(c))) {
 				
-				return Integer.valueOf(search(c));
+				return searchInteger(c);
 			}
 		}
 		return -1;
@@ -47,7 +47,7 @@ public class App {
 		
 		//Initiliase les cles de la map
 		for(String s : classCard) {		
-			totalByClass.put(Integer.valueOf(search(s)),new ArrayList<TreeSet<Integer>>());
+			totalByClass.put(searchInteger(s),new ArrayList<TreeSet<Integer>>());
 		}
 		
 	
@@ -56,7 +56,7 @@ public class App {
 			int isCard = containsClassCard(deck);
 			
 			if(isCard != -1) {
-				
+				removeClassCard(deck);
 				totalByClass.get(isCard).add(sorted(deck));
 				
 			}
@@ -73,20 +73,21 @@ public class App {
 		}
 			
 	}
+	public static void removeClassCard(TreeSet<Integer> tree) {
+		for(String card : classCard) {
+			tree.remove(searchInteger(card));
+		}
+	}
 	public static TreeSet<Integer> sorted (TreeSet<Integer> deck){
 		List<Integer> l = new ArrayList<>(deck);
-		for(Integer i : deck) {
-			System.out.println("pre " +i );
-		}
+	
 		Collections.sort(l);
 		
 		TreeSet<Integer> res = new TreeSet<>();
 		for(Integer i : l) {
 			res.add(i);
 		}
-		for(Integer i : res) {
-			System.out.println("post " + i);
-		}
+	
 		return res;
 	}
 	
@@ -119,7 +120,7 @@ public class App {
 	 * @param item name of the card
 	 * @return id of the card
 	 */
-	public static String search(String item) {
+	public static String searchString(String item) {
 		String res ="null";
 		for(Integer truc : deckDictionnary.keySet()) {
 			if(deckDictionnary.get(truc).equals(item)) {
@@ -128,7 +129,20 @@ public class App {
 		}
 		return res;
 	}
-	
+	/**
+	 * Search a card in the bdd and give it's ID
+	 * @param item name of the card
+	 * @return id of the card
+	 */
+	public static Integer searchInteger(String item) {
+		
+		for(Integer truc : deckDictionnary.keySet()) {
+			if(deckDictionnary.get(truc).equals(item)) {
+				return truc;
+			}
+		}
+		return -1;
+	}
 	/**
 	 * 
 	 * @param l List of string
@@ -194,7 +208,7 @@ public class App {
 			
 			for(String s : h) {
 				
-				String id = search(s);
+				String id = searchString(s);
 				if(!id.equals("null")) {
 					transversation.add(Integer.valueOf(id));
 				}

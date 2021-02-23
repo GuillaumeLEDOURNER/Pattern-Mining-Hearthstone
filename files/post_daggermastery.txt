@@ -1,0 +1,10 @@
+azuredrake #SUP: 15
+azuredrake fanofknives #SUP: 14
+pilotedshredder #SUP: 19
+fanofknives #SUP: 21
+fanofknives eviscerate #SUP: 16
+fanofknives backstab #SUP: 16
+eviscerate #SUP: 22
+eviscerate backstab #SUP: 16
+si:7agent #SUP: 14
+backstab #SUP: 24

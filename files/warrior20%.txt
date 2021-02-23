@@ -1,0 +1,19 @@
+armorsmith #SUP: 11
+armorsmith death'sbite #SUP: 10
+armorsmith death'sbite acolyteofpain #SUP: 9
+death'sbite #SUP: 16
+death'sbite shieldblock #SUP: 10
+death'sbite shieldblock acolyteofpain #SUP: 9
+death'sbite acolyteofpain #SUP: 13
+death'sbite acolyteofpain whirlwind #SUP: 9
+death'sbite acolyteofpain execute #SUP: 9
+death'sbite fierywaraxe #SUP: 10
+death'sbite whirlwind #SUP: 10
+death'sbite whirlwind grimpatron #SUP: 8
+death'sbite whirlwind execute #SUP: 8
+death'sbite execute #SUP: 10
+fierywaraxe #SUP: 12
+fierywaraxe whirlwind #SUP: 8
+whirlwind #SUP: 11
+whirlwind slam #SUP: 8
+execute #SUP: 11

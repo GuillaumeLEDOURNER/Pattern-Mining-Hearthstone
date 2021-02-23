@@ -1,0 +1,11 @@
+madscientist #SUP: 28
+manawyrm #SUP: 36
+manawyrm frostbolt #SUP: 28
+cogmaster #SUP: 30
+clockworkgnome #SUP: 29
+frostbolt #SUP: 51
+frostbolt fireball #SUP: 28
+fireball #SUP: 33
+arcaneintellect #SUP: 29
+snowchugger #SUP: 32
+unstableportal #SUP: 32

@@ -1,0 +1,169 @@
+ironbeakowl #SUP: 3
+ironbeakowl loatheb #SUP: 2
+ironbeakowl death'sbite acolyteofpain #SUP: 2
+ironbeakowl sludgebelcher #SUP: 2
+loatheb #SUP: 4
+loatheb dr.boom #SUP: 3
+loatheb dr.boom bash fierywaraxe whirlwind #SUP: 2
+loatheb dr.boom sludgebelcher #SUP: 2
+loatheb death'sbite acolyteofpain whirlwind execute #SUP: 2
+loatheb whirlwind #SUP: 3
+dr.boom #SUP: 7
+dr.boom pilotedshredder armorsmith death'sbite whirlwind battlerage innerrage frothingberserker grimpatron execute dreadcorsair #SUP: 2
+dr.boom bash #SUP: 3
+dr.boom bash armorsmith #SUP: 2
+dr.boom bash death'sbite sludgebelcher acolyteofpain brawl execute shieldmaiden #SUP: 2
+dr.boom armorsmith #SUP: 5
+dr.boom armorsmith death'sbite execute #SUP: 4
+dr.boom armorsmith death'sbite sludgebelcher acolyteofpain brawl execute shieldmaiden #SUP: 2
+dr.boom armorsmith death'sbite acolyteofpain execute #SUP: 3
+dr.boom armorsmith crueltaskmaster #SUP: 2
+dr.boom armorsmith fierywaraxe whirlwind slam #SUP: 2
+dr.boom armorsmith whirlwind #SUP: 3
+dr.boom death'sbite execute #SUP: 5
+dr.boom death'sbite sludgebelcher acolyteofpain brawl execute shieldmaiden #SUP: 3
+dr.boom death'sbite sludgebelcher shieldblock acolyteofpain shieldslam sylvanaswindrunner brawl execute shieldmaiden #SUP: 2
+dr.boom death'sbite acolyteofpain execute #SUP: 4
+dr.boom death'sbite acolyteofpain whirlwind execute #SUP: 2
+dr.boom death'sbite fierywaraxe whirlwind unstableghoul execute #SUP: 2
+dr.boom death'sbite whirlwind execute #SUP: 3
+dr.boom sludgebelcher #SUP: 4
+dr.boom fierywaraxe whirlwind #SUP: 3
+dr.boom whirlwind #SUP: 4
+pilotedshredder #SUP: 4
+pilotedshredder death'sbite #SUP: 3
+pilotedshredder death'sbite fierywaraxe #SUP: 2
+pilotedshredder fierywaraxe #SUP: 3
+pilotedshredder fierywaraxe execute #SUP: 2
+pilotedshredder execute #SUP: 3
+bash #SUP: 5
+bash armorsmith #SUP: 3
+bash armorsmith death'sbite sludgebelcher acolyteofpain #SUP: 2
+bash armorsmith crueltaskmaster fierywaraxe #SUP: 2
+bash death'sbite sludgebelcher acolyteofpain #SUP: 3
+bash death'sbite sludgebelcher shieldblock acolyteofpain shieldslam fierywaraxe #SUP: 2
+bash fierywaraxe #SUP: 4
+bash fierywaraxe justicartrueheart brawl execute #SUP: 2
+bash brawl execute #SUP: 3
+armorsmith #SUP: 11
+armorsmith death'sbite #SUP: 10
+armorsmith death'sbite sludgebelcher acolyteofpain #SUP: 3
+armorsmith death'sbite sludgebelcher shieldblock acolyteofpain shieldslam crueltaskmaster #SUP: 2
+armorsmith death'sbite shieldblock acolyteofpain #SUP: 6
+armorsmith death'sbite shieldblock acolyteofpain fierywaraxe #SUP: 3
+armorsmith death'sbite shieldblock acolyteofpain fierywaraxe emperorthaurissan whirlwind battlerage innerrage frothingberserker warsongcommander grimpatron slam execute #SUP: 2
+armorsmith death'sbite shieldblock acolyteofpain whirlwind battlerage innerrage frothingberserker warsongcommander grimpatron slam #SUP: 3
+armorsmith death'sbite shieldblock acolyteofpain whirlwind unstableghoul gnomishinventor battlerage innerrage frothingberserker warsongcommander grimpatron slam #SUP: 2
+armorsmith death'sbite shieldblock acolyteofpain execute #SUP: 3
+armorsmith death'sbite acolyteofpain #SUP: 9
+armorsmith death'sbite acolyteofpain fierywaraxe #SUP: 4
+armorsmith death'sbite acolyteofpain fierywaraxe emperorthaurissan whirlwind battlerage innerrage frothingberserker warsongcommander grimpatron slam execute #SUP: 3
+armorsmith death'sbite acolyteofpain fierywaraxe emperorthaurissan whirlwind unstableghoul gnomishinventor battlerage innerrage frothingberserker warsongcommander grimpatron slam execute #SUP: 2
+armorsmith death'sbite acolyteofpain whirlwind battlerage innerrage frothingberserker grimpatron #SUP: 5
+armorsmith death'sbite acolyteofpain whirlwind unstableghoul gnomishinventor battlerage innerrage frothingberserker warsongcommander grimpatron slam #SUP: 3
+armorsmith death'sbite acolyteofpain whirlwind battlerage innerrage frothingberserker warsongcommander grimpatron slam #SUP: 4
+armorsmith death'sbite acolyteofpain whirlwind battlerage innerrage frothingberserker grimpatron execute #SUP: 4
+armorsmith death'sbite acolyteofpain execute #SUP: 6
+armorsmith death'sbite fierywaraxe #SUP: 5
+armorsmith death'sbite fierywaraxe whirlwind battlerage innerrage frothingberserker grimpatron slam execute #SUP: 4
+armorsmith death'sbite fierywaraxe whirlwind unstableghoul battlerage innerrage frothingberserker grimpatron slam execute #SUP: 3
+armorsmith death'sbite whirlwind battlerage innerrage frothingberserker grimpatron #SUP: 6
+armorsmith death'sbite whirlwind unstableghoul battlerage innerrage frothingberserker grimpatron slam #SUP: 4
+armorsmith death'sbite whirlwind battlerage innerrage frothingberserker grimpatron slam #SUP: 5
+armorsmith death'sbite whirlwind battlerage innerrage frothingberserker grimpatron execute #SUP: 5
+armorsmith death'sbite execute #SUP: 7
+armorsmith crueltaskmaster #SUP: 3
+armorsmith fierywaraxe #SUP: 6
+armorsmith fierywaraxe whirlwind slam #SUP: 5
+armorsmith whirlwind #SUP: 7
+armorsmith whirlwind slam #SUP: 6
+death'sbite #SUP: 16
+death'sbite sludgebelcher #SUP: 6
+death'sbite sludgebelcher shieldblock #SUP: 5
+death'sbite sludgebelcher shieldblock acolyteofpain #SUP: 4
+death'sbite sludgebelcher shieldblock acolyteofpain shieldslam #SUP: 3
+death'sbite sludgebelcher shieldblock acolyteofpain fierywaraxe #SUP: 3
+death'sbite sludgebelcher shieldblock acolyteofpain fierywaraxe whirlwind shieldmaiden grommashhellscream #SUP: 2
+death'sbite sludgebelcher shieldblock acolyteofpain shieldmaiden #SUP: 3
+death'sbite sludgebelcher shieldblock fierywaraxe #SUP: 4
+death'sbite sludgebelcher shieldblock fierywaraxe justicartrueheart alexstrasza brawl #SUP: 2
+death'sbite sludgebelcher shieldblock brawl #SUP: 3
+death'sbite sludgebelcher acolyteofpain #SUP: 5
+death'sbite sludgebelcher acolyteofpain shieldmaiden #SUP: 4
+death'sbite sludgebelcher brawl #SUP: 4
+death'sbite shieldblock #SUP: 10
+death'sbite shieldblock acolyteofpain #SUP: 9
+death'sbite shieldblock acolyteofpain crueltaskmaster #SUP: 3
+death'sbite shieldblock acolyteofpain crueltaskmaster fierywaraxe #SUP: 2
+death'sbite shieldblock acolyteofpain crueltaskmaster execute #SUP: 2
+death'sbite shieldblock acolyteofpain fierywaraxe #SUP: 6
+death'sbite shieldblock acolyteofpain fierywaraxe emperorthaurissan whirlwind slam #SUP: 4
+death'sbite shieldblock acolyteofpain fierywaraxe emperorthaurissan whirlwind unstableghoul battlerage frothingberserker warsongcommander grimpatron slam execute #SUP: 2
+death'sbite shieldblock acolyteofpain fierywaraxe emperorthaurissan whirlwind battlerage frothingberserker warsongcommander grimpatron slam execute #SUP: 3
+death'sbite shieldblock acolyteofpain fierywaraxe whirlwind #SUP: 5
+death'sbite shieldblock acolyteofpain fierywaraxe whirlwind unstableghoul execute #SUP: 3
+death'sbite shieldblock acolyteofpain fierywaraxe whirlwind execute #SUP: 4
+death'sbite shieldblock acolyteofpain whirlwind #SUP: 6
+death'sbite shieldblock acolyteofpain whirlwind unstableghoul #SUP: 4
+death'sbite shieldblock acolyteofpain whirlwind unstableghoul battlerage frothingberserker warsongcommander grimpatron slam #SUP: 3
+death'sbite shieldblock acolyteofpain whirlwind battlerage frothingberserker warsongcommander grimpatron slam #SUP: 4
+death'sbite shieldblock acolyteofpain whirlwind slam #SUP: 5
+death'sbite shieldblock acolyteofpain execute #SUP: 5
+death'sbite shieldblock fierywaraxe #SUP: 7
+death'sbite shieldblock fierywaraxe gnomishinventor #SUP: 2
+death'sbite shieldblock gnomishinventor #SUP: 3
+death'sbite acolyteofpain #SUP: 13
+death'sbite acolyteofpain fierywaraxe #SUP: 7
+death'sbite acolyteofpain fierywaraxe emperorthaurissan whirlwind slam #SUP: 5
+death'sbite acolyteofpain fierywaraxe emperorthaurissan whirlwind unstableghoul battlerage frothingberserker warsongcommander grimpatron slam execute #SUP: 3
+death'sbite acolyteofpain fierywaraxe emperorthaurissan whirlwind battlerage frothingberserker warsongcommander grimpatron slam execute #SUP: 4
+death'sbite acolyteofpain fierywaraxe whirlwind #SUP: 6
+death'sbite acolyteofpain fierywaraxe whirlwind unstableghoul execute #SUP: 4
+death'sbite acolyteofpain fierywaraxe whirlwind execute #SUP: 5
+death'sbite acolyteofpain whirlwind #SUP: 9
+death'sbite acolyteofpain whirlwind unstableghoul #SUP: 5
+death'sbite acolyteofpain whirlwind unstableghoul battlerage frothingberserker warsongcommander grimpatron slam #SUP: 4
+death'sbite acolyteofpain whirlwind battlerage frothingberserker grimpatron #SUP: 6
+death'sbite acolyteofpain whirlwind battlerage frothingberserker warsongcommander grimpatron slam #SUP: 5
+death'sbite acolyteofpain whirlwind battlerage frothingberserker grimpatron execute #SUP: 5
+death'sbite acolyteofpain whirlwind grimpatron #SUP: 7
+death'sbite acolyteofpain whirlwind grimpatron execute #SUP: 6
+death'sbite acolyteofpain whirlwind slam #SUP: 6
+death'sbite acolyteofpain whirlwind execute #SUP: 7
+death'sbite acolyteofpain execute #SUP: 9
+death'sbite fierywaraxe #SUP: 10
+death'sbite fierywaraxe whirlwind #SUP: 7
+death'sbite fierywaraxe whirlwind unstableghoul execute #SUP: 5
+death'sbite fierywaraxe whirlwind unstableghoul battlerage frothingberserker grimpatron slam execute #SUP: 4
+death'sbite fierywaraxe whirlwind battlerage frothingberserker grimpatron slam execute #SUP: 5
+death'sbite fierywaraxe whirlwind slam #SUP: 6
+death'sbite fierywaraxe whirlwind execute #SUP: 6
+death'sbite fierywaraxe gnomishinventor #SUP: 3
+death'sbite whirlwind #SUP: 10
+death'sbite whirlwind unstableghoul #SUP: 6
+death'sbite whirlwind unstableghoul battlerage frothingberserker grimpatron slam #SUP: 5
+death'sbite whirlwind battlerage frothingberserker grimpatron #SUP: 7
+death'sbite whirlwind battlerage frothingberserker grimpatron slam #SUP: 6
+death'sbite whirlwind battlerage frothingberserker grimpatron execute #SUP: 6
+death'sbite whirlwind grimpatron #SUP: 8
+death'sbite whirlwind grimpatron execute #SUP: 7
+death'sbite whirlwind slam #SUP: 7
+death'sbite whirlwind execute #SUP: 8
+death'sbite gnomishinventor #SUP: 4
+death'sbite execute #SUP: 10
+sludgebelcher #SUP: 7
+sludgebelcher emperorthaurissan #SUP: 2
+crueltaskmaster #SUP: 4
+crueltaskmaster fierywaraxe #SUP: 3
+crueltaskmaster fierywaraxe whirlwind slam #SUP: 2
+fierywaraxe #SUP: 12
+fierywaraxe justicartrueheart brawl #SUP: 3
+fierywaraxe whirlwind #SUP: 8
+fierywaraxe whirlwind slam #SUP: 7
+fierywaraxe execute #SUP: 7
+emperorthaurissan #SUP: 6
+whirlwind #SUP: 11
+whirlwind slam #SUP: 8
+brawl #SUP: 5
+brawl execute #SUP: 4
+execute #SUP: 11

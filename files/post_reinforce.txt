@@ -1,0 +1,8 @@
+knifejuggler #SUP: 24
+musterforbattle #SUP: 31
+musterforbattle shieldedminibot #SUP: 18
+pilotedshredder #SUP: 20
+avenge #SUP: 18
+truesilverchampion #SUP: 23
+shieldedminibot #SUP: 22
+consecration #SUP: 18

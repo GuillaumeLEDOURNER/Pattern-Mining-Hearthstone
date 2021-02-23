@@ -1,0 +1,32 @@
+azuredrake #SUP: 20
+darnassusaspirant #SUP: 33
+darnassusaspirant wildgrowth #SUP: 21
+darnassusaspirant innervate #SUP: 22
+darnassusaspirant innervate swipe #SUP: 19
+darnassusaspirant pilotedshredder #SUP: 22
+darnassusaspirant swipe #SUP: 24
+darnassusaspirant keeperofthegrove #SUP: 24
+wildgrowth #SUP: 26
+wildgrowth innervate #SUP: 19
+wildgrowth pilotedshredder #SUP: 19
+wildgrowth keeperofthegrove #SUP: 20
+innervate #SUP: 30
+innervate pilotedshredder #SUP: 21
+innervate swipe #SUP: 25
+innervate swipe keeperofthegrove #SUP: 19
+innervate keeperofthegrove #SUP: 23
+pilotedshredder #SUP: 28
+pilotedshredder swipe #SUP: 21
+pilotedshredder keeperofthegrove #SUP: 21
+shadeofnaxxramas #SUP: 23
+shadeofnaxxramas keeperofthegrove #SUP: 19
+ancientoflore #SUP: 20
+swipe #SUP: 32
+swipe keeperofthegrove #SUP: 24
+swipe wrath #SUP: 19
+forceofnature #SUP: 19
+keeperofthegrove #SUP: 32
+keeperofthegrove wrath #SUP: 19
+wrath #SUP: 25
+savageroar #SUP: 19
+druidoftheclaw #SUP: 23

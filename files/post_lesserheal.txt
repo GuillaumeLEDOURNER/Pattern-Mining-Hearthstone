@@ -1,0 +1,23 @@
+twilightwhelp #SUP: 27
+twilightwhelp powerword:shield #SUP: 22
+twilightwhelp wyrmrestagent #SUP: 22
+darkcultist #SUP: 27
+blackwingcorruptor #SUP: 27
+azuredrake #SUP: 25
+powerword:shield #SUP: 39
+powerword:shield velen'schosen #SUP: 22
+powerword:shield wyrmrestagent #SUP: 24
+powerword:shield wyrmrestagent twilightguardian #SUP: 22
+powerword:shield northshirecleric #SUP: 28
+powerword:shield holynova #SUP: 25
+powerword:shield twilightguardian #SUP: 25
+velen'schosen #SUP: 27
+cabalshadowpriest #SUP: 25
+wyrmrestagent #SUP: 31
+wyrmrestagent northshirecleric #SUP: 23
+wyrmrestagent twilightguardian #SUP: 27
+northshirecleric #SUP: 38
+northshirecleric holynova #SUP: 22
+holynova #SUP: 31
+twilightguardian #SUP: 30
+shadowword:death #SUP: 26
